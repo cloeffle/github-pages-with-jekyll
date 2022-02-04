@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Japan a nice place to be!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. Lets talk about Japan.
